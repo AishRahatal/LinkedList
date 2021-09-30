@@ -224,8 +224,8 @@ namespace LinkedList
                     temp1 = temp1.next;
                 }
             }
-
         }
+        
         //deleting node 40 and counting size of list
         internal void Deletebetween(int data)
         {
