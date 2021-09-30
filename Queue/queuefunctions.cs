@@ -19,10 +19,10 @@ namespace Queue
             q.dequeue();
 
             Console.WriteLine(" ------------------------");
-
-
         }
+        
         internal Node head;
+        
         //Adding Node to queue
         internal void enqueue(int data)
         {
@@ -43,19 +43,16 @@ namespace Queue
 
             }
             Console.WriteLine("{0} added into the linked list", newnode.data);
-
-
         }
 
 
-        //Removing node from queue
+        //Removing node from queue 
         internal void dequeue()
         {
             
             if (head == null)
             {
                 Console.WriteLine(" Cant perform delete operation ");
-
             }
             else
             {
