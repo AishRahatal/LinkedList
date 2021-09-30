@@ -46,6 +46,7 @@ namespace Stack
             }
 
         }
+        
         // Removing node from stack
         internal void pop()
         {
