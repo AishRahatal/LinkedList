@@ -173,7 +173,6 @@ namespace LinkedList
                             Console.WriteLine("----------------------------------------");
                             Console.WriteLine("Thank you!, Exiting ..");
                             break;
-
                     }
                 }
                 else
