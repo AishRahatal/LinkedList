@@ -35,7 +35,7 @@ namespace LinkedList
             Node i = new Node();
             Node j = new Node();
             Console.WriteLine("-----------------------");
-
+         // Bubble sort  for sorting nodes
             i = j = head;
             while (i != null)
             {
@@ -52,6 +52,7 @@ namespace LinkedList
                 j = head;
                 i = i.next;
             }
+            //Printing sorted list
             Console.WriteLine("Sorted LinkedList ");
             while (head != null)
             {
