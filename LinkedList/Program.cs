@@ -14,7 +14,6 @@ namespace LinkedList
             int ch = 0;
             do
             {
-
                 Console.WriteLine("***************************************************************");
 
                 Console.WriteLine("\n \n\t\tMENU");
