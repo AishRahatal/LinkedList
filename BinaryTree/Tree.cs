@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace BinaryTree
 {
@@ -50,8 +50,6 @@ namespace BinaryTree
                     }
                 }
             }
-
-
         }
 
         
@@ -92,11 +90,7 @@ namespace BinaryTree
                 }
 
             }
-
-
             return ;
-
-
         }
     }
 }
